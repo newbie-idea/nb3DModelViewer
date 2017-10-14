@@ -1,2 +1,2 @@
-# nb3DModelViewer
+# nbxd.d3.modelViewer
 3D model design, a powerful 3D model viewer for popular 3d file formats, including OBJ, 3DS, BLEND...
